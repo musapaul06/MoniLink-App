@@ -1,2 +1,2 @@
 # MoniLink-App
-Prototype Fin
+Prototype FinTech Mobile App for money transfer and payments
